@@ -356,7 +356,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+  background: url('../images/PriyankGuitar.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -383,7 +383,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('../images/Priyank.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -395,7 +395,7 @@ a:hover, a:active, a:focus {
   background: #ffffff;
   border-radius: 0px;
   box-shadow: none;
-  height: 2px;
+  height: 5px;
 }
 
 #about .progress-bar-primary {
@@ -406,7 +406,7 @@ a:hover, a:active, a:focus {
 #about span {
   font-weight: bold;
   display: inline-block;
-  padding-bottom: 8px;
+  padding-bottom: 40px;
 }
 
 
