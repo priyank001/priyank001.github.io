@@ -2,16 +2,15 @@
 
 A particle-theme template as a landing page for your portfolio.
 
-> [Demo](https://landing-page--itsron717.repl.co/)
+> [Demo](https://priyanknamdev.in/)
 
-<img src="particle_demo/particle_demo.png"/>
 
 # Using the Template
 
   - Fork and Clone the repository
 
     ```
-    $ git clone https://github.com/itsron717/ParticleGround-Portfolio.git
+    $ git clone https://github.com/priyank001/priyank001.github.io.git
     ```
  
   - Go inside the main repository
